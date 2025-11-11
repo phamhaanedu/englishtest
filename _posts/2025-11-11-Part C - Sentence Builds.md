@@ -1,3 +1,13 @@
+---
+layout: post
+title: Part C - Sentence Builds
+subtitle: Nghe và ghép lại các cụm từ nghe được thành câu
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [englishtest]
+author: anph21
+---
 Please rearrange the word groups into a sentence.
 [[attachments/veptpartcinstructions.mp3|veptpartcinstructions]]
 <audio controls src="attachments/veptpartcinstructions.mp3"></audio>

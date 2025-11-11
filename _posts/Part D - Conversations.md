@@ -1,3 +1,13 @@
+---
+layout: post
+title: Part D - Conversation
+subtitle: Nghe hiểu nội dung và đọc câu trả lời câu hỏi nghe được
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [englishtest]
+author: anph21
+---
 You will hear a conversation between two people, followed by a question. Give a short, simple answer to the question.
 [[attachments/veptpartdinstructions-d.mp3|veptpartdinstructions-d]]
 <audio controls src="attachments/veptpartdinstructions-d.mp3"></audio>
