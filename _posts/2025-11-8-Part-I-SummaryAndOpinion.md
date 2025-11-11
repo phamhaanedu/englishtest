@@ -57,3 +57,10 @@ Also, online friendships can be more convenient and accessible. Online platforms
 Online friends can offer a level of emotional support that is just as strong as friends in real life. Both can be just as understanding, caring, and loving towards you. Although a virtual friend cannot be touched, they can still talk and listen to you just as much as a real-life friend. Both can bring you happiness and make you feel better when you are down.
 
 ---
+In home countries teenagers have jobs while they are still students. Some teenagers work after school. Other teenagers work on the weekend. Other work during school breaks. Schools teach students a lot, but having a job can help students in ways that schools cannot. All teenagers should work while they are in school. 
+
+Teenagers who have jobs as students can learn about different job fields. If a student wants to become a doctor, he or she can learn what it is like to work in a hospital. A student who likes children can help at a school. Students will get very useful experiences. Such experiences make it easier for students to decide what kind of job they should look for when they graduate. In some cases, teenagers may learn that certain jobs are not right for them. Finding out what work they do or not do like is an important lesson, too. It is important for teenagers to learn about a variety of jobs.
+
+Students who work also learn how to manage their own money. Many teenagers depend on their parents for everything. If parents give teenagers money, then teenagers will get used to receiving money easily. By working hard for their own money, teenagers learn its value. They also learn how to make the most of their money when choosing what to buy. Understanding how to manage money is a useful skill for teenagers to learn.
+
+A job may take time away from student' studies, but it will also teach them a lot about different job fields and managing money. A part-time job provides students with experiences and skills that cannot be taught in school
