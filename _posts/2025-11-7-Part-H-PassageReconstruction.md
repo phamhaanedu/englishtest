@@ -1,6 +1,18 @@
+---
+layout: post
+title: Part H - Passage Recontruction
+subtitle: Nghe hiểu nội dung và viết lại đoạn văn tương đương
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags: [englishtest]
+author: Edu Pham
+categories: [Base Skill]
+date: 2025-11-7 10:00:00 +0700
+---
 You will have 30 seconds to read a paragraph. After 30 seconds, the paragraph will disappear from the screen. Then, you will have 90 seconds to reconstruct the paragraph. Show that you understood the passage by rewriting it in your own words. Your answer will be scored for clear and accurate content, not word-for-word memorization. After 90 seconds, your work will be saved automatically.
-[[attachments/veptparthinstructions-h.mp3]]
-<audio controls src="attachments/veptparthinstructions-h.mp3"></audio>
+[[../attachments/veptparthinstructions-h.mp3]]
+<audio controls src="../attachments/veptparthinstructions-h.mp3"></audio>
 
 Có 3 đoạn, Mỗi đoạn có 30s đọc,. Thí sinh có 90s viết lại đoạn văn hoàn chỉnh với nội dung có nét tương đồng với bản gốc.
 - Câu đầu cần nhớ, vì có nhân vật, các ngôi trong đoạn văn

@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\englishtest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\englishtest\\_posts\\Part D - Conversations.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\Part D - Conversations.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\englishtest\\_posts\\2025-11-11-PartA-ReadAloud.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025-11-11-PartA-ReadAloud.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\englishtest\\_posts\\2025-11-11-Part C - Sentence Builds.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025-11-11-Part C - Sentence Builds.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Part D - Conversations.md",
+              "DocumentMoniker": "D:\\englishtest\\_posts\\Part D - Conversations.md",
+              "RelativeDocumentMoniker": "_posts\\Part D - Conversations.md",
+              "ToolTip": "D:\\englishtest\\_posts\\Part D - Conversations.md",
+              "RelativeToolTip": "_posts\\Part D - Conversations.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-11T02:24:35.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2025-11-11-Part C - Sentence Builds.md",
+              "DocumentMoniker": "D:\\englishtest\\_posts\\2025-11-11-Part C - Sentence Builds.md",
+              "RelativeDocumentMoniker": "_posts\\2025-11-11-Part C - Sentence Builds.md",
+              "ToolTip": "D:\\englishtest\\_posts\\2025-11-11-Part C - Sentence Builds.md",
+              "RelativeToolTip": "_posts\\2025-11-11-Part C - Sentence Builds.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-11T02:23:08.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2025-11-11-PartA-ReadAloud.md",
+              "DocumentMoniker": "D:\\englishtest\\_posts\\2025-11-11-PartA-ReadAloud.md",
+              "RelativeDocumentMoniker": "_posts\\2025-11-11-PartA-ReadAloud.md",
+              "ToolTip": "D:\\englishtest\\_posts\\2025-11-11-PartA-ReadAloud.md",
+              "RelativeToolTip": "_posts\\2025-11-11-PartA-ReadAloud.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-11T02:23:04.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

@@ -1,3 +1,15 @@
+---
+layout: post
+title: Part I - Summary and Oppinion
+subtitle: Nghe hiểu nội dung và tóm tắt và đưa ra ý kiến quan điểm cá nhân
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags: [englishtest]
+author: Edu Pham
+categories: [Base Skill]
+date: 2025-11-8 10:00:00 +0700
+---
 Read the passage.
 
 Then, in the first box. write a short summary of the author’s opinion in 25-50 words. In the second box, write your opinion on the topic.
@@ -7,8 +19,8 @@ Do you agree or disagree with the author? Why? Try to use your own ideas.
 You must write at least 50 words. You will have 18 minutes to read the passage and write both the summary and opinion.
 
 Write both the summary and the opinion before clicking “Next”. Write in complete sentences. After 18 minutes. your work will be saved automatically.
-[[attachments/veptpartiinstructions-i.mp3|veptpartiinstructions-i]]
-<audio controls src="attachments/veptpartiinstructions-i.mp3"></audio>
+[[../attachments/veptpartiinstructions-i.mp3|veptpartiinstructions-i]]
+<audio controls src="../attachments/veptpartiinstructions-i.mp3"></audio>
 
 **Có 18 phút, đọc một đoạn văn xuyên suốt
 - 2-3 phút đọc và phân tích    

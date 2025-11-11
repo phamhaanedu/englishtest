@@ -8,7 +8,7 @@ share-img:
 tags: [englishtest]
 author: Edu Pham
 categories: [Base Skill]
-date: 2025-11-10 10:00:00 +0700
+date: 2025-11-3 10:00:00 +0700
 ---
 Please rearrange the word groups into a sentence.
 [[../attachments/veptpartcinstructions.mp3|veptpartcinstructions]]

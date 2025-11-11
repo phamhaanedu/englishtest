@@ -8,7 +8,7 @@ share-img:
 tags: [englishtest]
 author: Edu Pham
 categories: [Base Skill]
-date: 2025-11-10 10:00:00 +0700
+date: 2025-11-2 10:00:00 +0700
 ---
 Please repeat each sentence that you hear.
 [[../attachments/vetpartbinstructions-b.mp3]]
@@ -24,6 +24,7 @@ Thận trọng với viết tắt
 Đọc ngay sau 1 giây từ khi máy đọc xong
 
 ---
+<p style="background-color:white;color=white">
 
 [[../attachments/part-b-1.mp3]]
 <audio controls src="../attachments/part-b-1.mp3"></audio>
@@ -733,3 +734,5 @@ I must have heard 20 different accents in the party.
 [[../attachments/part-b-c27.mp3]]
 <audio controls src="../attachments/part-b-c27.mp3"></audio>
 She believes that everything happens for a reason.
+
+</p>

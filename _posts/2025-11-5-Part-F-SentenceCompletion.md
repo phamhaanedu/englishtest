@@ -1,6 +1,18 @@
+---
+layout: post
+title: Part F - Sentence Completion
+subtitle: Điền từ còn thiếu vào chỗ trống
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags: [englishtest]
+author: Edu Pham
+categories: [Base Skill]
+date: 2025-11-5 10:00:00 +0700
+---
 Please type one word that best fits the meaning of the sentence. Type only one word. You will have 25 seconds for each sentence. Click “Next” when you are finished.
-[[attachments/veptpartfinstructions-f.mp3|veptpartdinstructions-f]]
-<audio controls src="attachments/veptpartfinstructions-f.mp3"></audio>
+[[../attachments/veptpartfinstructions-f.mp3|veptpartdinstructions-f]]
+<audio controls src="../attachments/veptpartfinstructions-f.mp3"></audio>
 
 Điền từ còn thiếu vào chỗ trống
 Số câu hỏi: 20 câu

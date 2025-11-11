@@ -8,7 +8,7 @@ share-img:
 tags: [englishtest]
 author: Edu Pham
 categories: [Base Skill]
-date: 2025-11-10 10:00:00 +0700
+date: 2025-11-4 10:00:00 +0700
 ---
 You will hear a conversation between two people, followed by a question. Give a short, simple answer to the question.
 [[../attachments/veptpartdinstructions-d.mp3|veptpartdinstructions-d]]

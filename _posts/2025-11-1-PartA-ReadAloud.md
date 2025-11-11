@@ -8,7 +8,7 @@ share-img:
 tags: [englishtest]
 author: Edu Pham
 categories: [Base Skill]
-date: 2025-11-10 10:00:00 +0700
+date: 2025-11-1 10:00:00 +0700
 ---
 
 Read the passage aloud smoothly and naturally in a clear voice. You will be stopped after 30 seconds. This is not a speed reading test. You may not be able to finish reading the entire passage, but that is okay. When your time is up you will automatically move on to the next item.
