@@ -2,11 +2,13 @@
 layout: post
 title: Part D - Conversation
 subtitle: Nghe hiểu nội dung và đọc câu trả lời câu hỏi nghe được
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: 
+thumbnail-img: 
+share-img: 
 tags: [englishtest]
-author: anph21
+author: Edu Pham
+categories: [Base Skill]
+date: 2025-11-10 10:00:00 +0700
 ---
 You will hear a conversation between two people, followed by a question. Give a short, simple answer to the question.
 [[attachments/veptpartdinstructions-d.mp3|veptpartdinstructions-d]]

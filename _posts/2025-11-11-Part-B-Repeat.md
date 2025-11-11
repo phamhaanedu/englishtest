@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Part B - Repeat
-subtitle: Nghe và đọc laij
+subtitle: Nghe và đọc lại
 cover-img: 
 thumbnail-img: 
 share-img: 

@@ -2,11 +2,13 @@
 layout: post
 title: Part C - Sentence Builds
 subtitle: Nghe và ghép lại các cụm từ nghe được thành câu
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: 
+thumbnail-img: 
+share-img: 
 tags: [englishtest]
-author: anph21
+author: Edu Pham
+categories: [Base Skill]
+date: 2025-11-10 10:00:00 +0700
 ---
 Please rearrange the word groups into a sentence.
 [[attachments/veptpartcinstructions.mp3|veptpartcinstructions]]
