@@ -10,8 +10,8 @@ Tôi là Edu Pham
 - Tôi thích chơi game
 - Tôi thích lập trình game
 
-Bạnt hích gì?
+Bạn thích gì?
 
 ### Câu chuyện của tôi
 
-Từ từ xây dựng nhé...
+Nhặt nhạnh chút bài test tiếng anh thi các trình độ A B C
