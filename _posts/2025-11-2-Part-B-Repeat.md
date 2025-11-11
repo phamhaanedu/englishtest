@@ -24,15 +24,14 @@ Thận trọng với viết tắt
 Đọc ngay sau 1 giây từ khi máy đọc xong
 
 ---
-<p style="background-color:white;color=white">
 
 [[../attachments/part-b-1.mp3]]
 <audio controls src="../attachments/part-b-1.mp3"></audio>
-When did you leave?
+<p style="background-color:white;color=white">When did you leave?</p>
  
 [[../attachments/part-b-2.mp3]]
 <audio controls src="../attachments/part-b-2.mp3"></audio>
-There is glass on the floor
+<p style="background-color:white;color=white">There is glass on the floor</p>
 
 [[../attachments/part-b-3.mp3]]
 <audio controls src="../attachments/part-b-3.mp3"></audio>
@@ -734,5 +733,3 @@ I must have heard 20 different accents in the party.
 [[../attachments/part-b-c27.mp3]]
 <audio controls src="../attachments/part-b-c27.mp3"></audio>
 She believes that everything happens for a reason.
-
-</p>
