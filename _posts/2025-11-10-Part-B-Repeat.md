@@ -1,3 +1,15 @@
+---
+layout: post
+title: Part B - Repeat
+subtitle: Nghe và đọc laij
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags: [englishtest]
+author: Edu Pham
+categories: [Base Skill]
+date: 2025-11-10 10:00:00 +0700
+---
 Please repeat each sentence that you hear.
 [[attachments/vetpartbinstructions-b.mp3]]
 <audio controls src="attachments/vetpartbinstructions-b.mp3"></audio>
